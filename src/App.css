@@ -1,0 +1,28 @@
+body {
+  background-color: #f8f9fc;
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.button {
+  width: 80%;
+}
+
+.add-button {
+  width: 100%;
+  display: flex;
+  background-color: #5d87ff;
+}
+
+.main-container {
+  margin-top: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

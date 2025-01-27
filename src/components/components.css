@@ -1,0 +1,67 @@
+.form-inputs {
+  display: flex;
+  flex-direction: column;
+}
+
+.card {
+  background-color: #fff;
+  margin: 1rem;
+  width: 20rem;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.input-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  width: 15rem;
+}
+
+.table-container {
+  width: 30rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.delete-icon:hover {
+  cursor: pointer;
+}
+
+.action-container {
+  background-color: #ffc9c2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.2rem;
+  border-radius: 0.3rem;
+}
+
+.chart-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+.chart-view {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5rem;
+}
